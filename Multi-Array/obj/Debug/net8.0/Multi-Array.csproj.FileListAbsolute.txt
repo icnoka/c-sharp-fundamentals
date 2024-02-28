@@ -1,0 +1,15 @@
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\bin\Debug\net8.0\Multi-Array.exe
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\bin\Debug\net8.0\Multi-Array.deps.json
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\bin\Debug\net8.0\Multi-Array.runtimeconfig.json
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\bin\Debug\net8.0\Multi-Array.dll
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\bin\Debug\net8.0\Multi-Array.pdb
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\obj\Debug\net8.0\Multi-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\obj\Debug\net8.0\Multi-Array.AssemblyInfoInputs.cache
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\obj\Debug\net8.0\Multi-Array.AssemblyInfo.cs
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\obj\Debug\net8.0\Multi-Array.csproj.CoreCompileInputs.cache
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\obj\Debug\net8.0\Multi-Array.dll
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\obj\Debug\net8.0\refint\Multi-Array.dll
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\obj\Debug\net8.0\Multi-Array.pdb
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\obj\Debug\net8.0\Multi-Array.genruntimeconfig.cache
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\obj\Debug\net8.0\ref\Multi-Array.dll
+C:\Users\icnok\source\repos\c-sharp-fundamentals-new\Multi-Array\obj\Debug\net8.0\Multi-Array.sourcelink.json

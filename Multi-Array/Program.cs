@@ -85,6 +85,12 @@
                 {
                     Console.WriteLine(arr1[i, j]);
 
+
+
+
+
+
+
                 } 
 
             }
